@@ -1,0 +1,19 @@
+{
+  "name": "git-demo",
+  "version": "1.0.0",
+  "description": "git说明",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/linruibin0120/git-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/linruibin0120/git-demo/issues"
+  },
+  "homepage": "https://github.com/linruibin0120/git-demo#readme"
+}
